@@ -49,5 +49,5 @@ cd AI-Canvas
 - Results will display automatically with LaTeX rendering for equations and evaluated answers for mathematical expressions
 
 ## Screenshots
-![alt text](<Screenshot 2024-10-30 000854.png>)
-![alt text](<Screenshot 2024-10-30 000906.png>)
+![alt text](<images/Screenshot 2024-10-30 000854.png>)
+![alt text](<images/Screenshot 2024-10-30 000906.png>)
